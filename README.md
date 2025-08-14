@@ -1,4 +1,4 @@
-# teste1_ESP32
+# Transmissão do tempo de pressionamento do Push-button pelo ESP32
 Este projeto tem como objetivo desenvolver um transmissor de dados de baixo custo para uma bomba de insulina, utilizando um microcontrolador ESP32 para enviar informações via Bluetooth Low Energy (BLE) para um aplicativo móvel.
 Atualmente, o projeto está em uma fase de prova de conceito, onde um botão é utilizado para simular a entrada de dados. O tempo que o botão é pressionado é medido e enviado para o aplicativo.
 
