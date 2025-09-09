@@ -32,6 +32,7 @@ Como Compilar e Usar
    * Dica: Em algumas placas, pode ser necessário manter o botão "BOOT" pressionado durante o início do upload.
  * Teste a Comunicação:
    * Após o upload, o ESP32 iniciará o servidor BLE com o nome MeuESP32.
+   * A porta D4 deve estar conectada ao botão juntamente com o GND para que funcione corretamente o envio dos dados.
    * Abra o seu aplicativo no celular e conecte-se ao dispositivo.
    * Pressione e segure o botão.
    * Ao soltar o botão, o tempo em segundos que ele foi pressionado será enviado e exibido no seu aplicativo.
